@@ -3,10 +3,13 @@
 Temática: One Piece
 
 Como instalar:
+
 1. Baixe o repósitorio
+
 2.Instale as dependências (Node) pelo cmd
 cd local_da_pasta
 npm install
+
 3.Rodar o projeto -
 npm run dev
 
