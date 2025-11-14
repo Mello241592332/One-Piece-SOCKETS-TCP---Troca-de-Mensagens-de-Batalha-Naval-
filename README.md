@@ -4,8 +4,7 @@ Temática: One Piece
 
 Como instalar:
 
-
-1. Baixe o repósitorio
+1. Baixe o ZIP do repósitorio
 
 2.Instale as dependências (Node) pelo cmd
 cd local_da_pasta
